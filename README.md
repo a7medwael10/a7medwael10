@@ -13,15 +13,8 @@ I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passion
 
 
 <br/>
-<div align="left">
- 
- 🔭 I’m currently working on **Graduation Project**
- 
- 🌱 I’m currently learning **Laravel FrameWork**
 
-⚡ Fun fact **I Like Reading 📖 Playing Plato 🎲 and Farlight 🎮** 
-
- </div>
+ 
 ### 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)

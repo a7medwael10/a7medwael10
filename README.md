@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There+!+👋;+I'm+Ahmed+Wael+!;Laravel+Back-End+Developer" />
 </h1>
 
-<img align="right" width="400" height=300 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
 <div align="left">
+    <img align="right" width="400" height=300 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
 <h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
 <h3 align="left">Computer and Control Systems CSSED Student</h3>
 </div>

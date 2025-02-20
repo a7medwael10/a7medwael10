@@ -27,5 +27,5 @@ I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passion
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7medwael10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/a7med-wael/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.wael1025@gmail.com.com)

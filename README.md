@@ -1,12 +1,12 @@
 ![Header](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-# 👋 Hi, I'm Ahmed!
-
-### 💻 About Me
-I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passionate about building scalable web applications and continuously learning new technologies.
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There+!+👋;+I'm+Ahmed+Wael+!;Laravel+Back-End+Developer" />
 </h1>
+
+### 💻 About Me
+I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passionate about building scalable web applications and continuously learning new technologies.
+
 <img align="right" width="400" height=300 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
 <h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
 <h3 align="left">Computer and Control Systems CSSED Student</h3>

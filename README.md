@@ -11,7 +11,6 @@ I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passion
 <h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
 <h3 align="left">Computer and Control Systems CSSED Student</h3>
 
- <hr clear="left"/> 
 
  
 ### 🛠 Tech Stack

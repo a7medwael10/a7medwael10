@@ -25,15 +25,6 @@
 <br/>
 <br/>
 
-
-<hr clear="left"/> 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <!-- react, -->
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,github,git,html,css,phpstorm,vscode,vim,emacs,discord,heroku" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,laravel,tailwind,bootstrap,postman,mysql,notion,ps,ai,bash,php,cpp,java,javascript"/><br>
-</div>
 <hr clear="left"/> 
 
 ### 📊 GitHub Stats

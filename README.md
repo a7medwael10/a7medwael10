@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There+!+👋;+I'm+Ahmed+Wael+!;Laravel+Back-End+Developer" />
 </h1>
 
-<img align="right" width="350" height=250 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
+<div>
+    <img align="right" width="350" height=250 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
 <h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
 <h3 align="left">Computer and Control Systems CSSED Student</h3>
-
-
+    
 ### 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -16,8 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-<hr />  
+
+<hr clear="left"/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">

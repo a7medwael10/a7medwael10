@@ -4,7 +4,24 @@
 
 ### 💻 About Me
 I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passionate about building scalable web applications and continuously learning new technologies.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Hi+There+!+👋;+I'm+Mohamed+Ghait+!;Laravel+Back-End+Developer" />
+</h1>
+<img align="right" width="400" height=300 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
+<h3 align="left">PHP & Laravel Back-End developer from Egypt 🇪🇬️</h3>
+<h3 align="left">Currently ECE Student at Mansura University</h3>
 
+
+<br/>
+<div align="left">
+ 
+ 🔭 I’m currently working on **Graduation Project**
+ 
+ 🌱 I’m currently learning **Laravel FrameWork**
+
+⚡ Fun fact **I Like Reading 📖 Playing Plato 🎲 and Farlight 🎮** 
+
+ </div>
 ### 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)

@@ -22,16 +22,6 @@ I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passion
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br/>
- <hr clear="left"/> 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <!-- react, -->
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,github,git,html,css,phpstorm,vscode,vim,emacs,discord,heroku" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,laravel,tailwind,bootstrap,postman,mysql,notion,ps,ai,bash,php,cpp,java,javascript"/><br>
-</div>
 
 ### 📊 GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)

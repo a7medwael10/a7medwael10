@@ -13,9 +13,13 @@ I'm a **Back-End Developer** specialized in **PHP, Laravel, and MySQL**. Passion
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Projects
-- [Fadfadly - AI-powered Mental Health Support](https://github.com/a7medwael10/Fadfadly)
-- [Fork & Knife - Restaurant Management System](https://github.com/a7medwael10/Fork-Knife-Restaurant-Management-System)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <!-- react, -->
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,github,git,html,css,phpstorm,vscode,vim,emacs,discord,heroku" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,laravel,tailwind,bootstrap,postman,mysql,notion,ps,ai,bash,php,cpp,java,javascript"/><br>
+</div>
 
 ### 📊 GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)

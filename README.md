@@ -27,5 +27,5 @@
 <hr clear="left"/> 
 
 ### 📊 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
 

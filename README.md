@@ -7,7 +7,7 @@
 <div>
     <img align="right" width="350" height=250 src="https://github.com/user-attachments/assets/ed4d4dd5-1d8e-4fde-89dc-2250f3dad699" alt="gif" /> 
 <h3 align="left">PHP Laravel Back-End developer from Egypt 🇪🇬️</h3>
-<h3 align="left">Computer and Control Systems Engineering CCSE Student</h3>
+<h3 align="left">Computer and Control Systems Engineering CCSE Graduate</h3>
     
 ### 🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

@@ -69,12 +69,12 @@
   </a>
   <br/> -->
 <!--   //https://github-readme-stats-ruby-one.vercel.app/-->
-<!-- <a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats">
   <img align="left" width="47%" src="https://streak-stats.demolab.com?user=a7medwael10&theme=vue-dark&date=20240928" alt="GitHub Streak" />
-</a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=a7medwael10&count_private=true&theme=vue-dark&border_radius=10&cache_seconds=1800" alt="a7medwael10's GitHub stats" />
 </a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=a7medwael10&count_private=true&theme=vue-dark&border_radius=10&cache_seconds=1800" alt="a7medwael10's GitHub stats" />
+</a> -->
     <!-- <br/> -->
 </div>
 

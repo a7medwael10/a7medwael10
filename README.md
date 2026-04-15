@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
-  <img width="39%" src="https://streak-stats.demolab.com?user=a7medwael10&theme=vue-dark" />
-  <img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=a7medwael10&theme=tokyo-night&hide_border=true"/>
+  <img width="45%" src="https://streak-stats.demolab.com?user=a7medwael10&theme=vue-dark" />
+  <img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=a7medwael10&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---

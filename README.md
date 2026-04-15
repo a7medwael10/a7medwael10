@@ -62,11 +62,17 @@
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
 
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7medwael10&theme=tokyo-night&hide_border=true"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/a7medwael10/a7medwael10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
 
 ## 📫 Connect with Me
 

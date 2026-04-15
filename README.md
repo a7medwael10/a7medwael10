@@ -62,7 +62,7 @@
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=MGhait&count_private=true&theme=vue-dark&border_radius=10&cache_seconds=1800" alt="MGhait's GitHub stats" />
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=a7medwael10&count_private=true&theme=vue-dark&border_radius=10&cache_seconds=1800" alt="a7medwael10's GitHub stats" />
 </a>
     <br/>
 </div>

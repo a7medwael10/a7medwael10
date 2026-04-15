@@ -60,20 +60,10 @@
 
 ## 📊 GitHub Stats
 
-<div align=center>
-<a href="https://git.io/streak-stats">
-  <img align="center" width="47%" src="https://streak-stats.demolab.com?user=a7medwael10&theme=vue-dark&date=20240928" alt="GitHub Streak" />
-</a>
-    <br/>
+<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
+  <img width="49%" src="https://streak-stats.demolab.com?user=a7medwael10&theme=vue-dark" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=a7medwael10&theme=tokyo-night&hide_border=true"/>
 </div>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7medwael10&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 

@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
+//![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medwael10&show_icons=true&theme=radical)
 
 <div align=center>
     <a href="https://git.io/streak-stats">

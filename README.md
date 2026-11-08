@@ -58,29 +58,6 @@
 
 ---
 
-## 🧩 Ecosystems I Work With
-
-| Stack | Technologies |
-| --- | --- |
-| 🔴 **MERN** | MongoDB, Express, React, Node.js |
-| 🟢 **NestJS** | NestJS, Node.js, REST APIs |
-| 🟣 **Laravel** | Sanctum, Queues, Jobs, APIs |
-| 🟡 **Django** | DRF, Authentication, APIs |
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace these with your own repos. Pinned repos also work: Profile → Customize your pins. -->
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Project One**](https://github.com/a7medwael10/REPO_NAME) | One line on what it does and why it matters | Laravel · MySQL |
-| [**Project Two**](https://github.com/a7medwael10/REPO_NAME) | One line on what it does and why it matters | Django · DRF |
-| [**Project Three**](https://github.com/a7medwael10/REPO_NAME) | One line on what it does and why it matters | Node.js · MongoDB |
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">

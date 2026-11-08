@@ -37,13 +37,13 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **🌐 Front-End**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **🗄 Databases**
 
@@ -63,7 +63,7 @@
 | Stack | Technologies |
 | --- | --- |
 | 🔴 **MERN** | MongoDB, Express, React, Node.js |
-| 🟢 **MEAN** | MongoDB, Express, Angular, Node.js |
+| 🟢 **NestJS** | NestJS, Node.js, REST APIs |
 | 🟣 **Laravel** | Sanctum, Queues, Jobs, APIs |
 | 🟡 **Django** | DRF, Authentication, APIs |
 

@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/a7med-wael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ahmed.wael1025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=a7medwael10&label=Profile+views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+<a href="https://ahmed-wael-portfolio.gt.tc/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
